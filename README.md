@@ -10,3 +10,4 @@ The app
 
 ## Dual theme
 Two themes are supported dark and light.
+![Image not availaible](screenshots/Daul theme "Dual theme")
