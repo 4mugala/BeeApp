@@ -1,5 +1,5 @@
 # beeApp
-BeeApp is simple note pad for wide usage -- it's up to the user -- but generally it's for jonting any down.
+BeeApp is a simple note pad for taking plain notes.
 
 # Features
 ## Find in note
