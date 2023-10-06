@@ -18,4 +18,4 @@ Two themes are supported dark and light.
 ![screenshots/Dual theme.png](https://github.com/4mugala/beeApp/blob/main/screenshots/Dual%20theme.png "Dual theme")
 
 ## Trash
-![Trash](https://github.com/4mugala/beeApp/blob/main/Trash.png "Trash")
+![Trash](https://github.com/4mugala/beeApp/blob/main/screenshots/Trash.png "Trash")
