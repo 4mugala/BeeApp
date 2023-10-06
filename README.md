@@ -18,7 +18,7 @@ Two themes are supported dark and light.
 ![Dual theme](https://github.com/4mugala/beeApp/blob/main/screenshots/Theme%20switch.png "Dual theme")
 
 ## Notes view
-![Notes views](https://github.com/4mugala/beeApp/blob/main/screenshots/Notes%20View.png "Notes view")
+![Notes view](https://github.com/4mugala/beeApp/blob/main/screenshots/Notes%20View.png "Notes view")
 
 ## Trash
 ![Trash](https://github.com/4mugala/beeApp/blob/main/screenshots/Trash.png "Trash")
