@@ -7,7 +7,7 @@ This feature allow you to search [1] through a note with **reg**ular **ex**press
 ### [1] Normal search (none-regular expression search)
 ![None-regualar expression](https://github.com/4mugala/beeApp/blob/main/screenshots/None-regular%20expression%20search.png "None-regular expression")
 ### [2] Regular expression search
-![None-regualar expression](https://github.com/4mugala/beeApp/blob/main/screenshots/Regular%20expression%20search.png "None-regular expression")
+![None-regualar expression](https://github.com/4mugala/beeApp/blob/main/screenshots/Regular%20expression%20search.png "Regular expression")
 
 ## Math evaluation
 If you intend to to know the avaluation a contextual math expression, just highlight sub-text.
@@ -16,3 +16,6 @@ If you intend to to know the avaluation a contextual math expression, just highl
 ## Dual theme
 Two themes are supported dark and light.
 ![screenshots/Dual theme.png](https://github.com/4mugala/beeApp/blob/main/screenshots/Dual%20theme.png "Dual theme")
+
+## Trash
+![Trash](https://github.com/4mugala/beeApp/blob/main/Trash.png "Trash")
