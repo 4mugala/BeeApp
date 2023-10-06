@@ -10,4 +10,4 @@ The app
 
 ## Dual theme
 Two themes are supported dark and light.
-![Image not availaible](screenshots/Dual theme.png)
+![Image not availaible]([screenshots/Dual theme.png](https://github.com/4mugala/beeApp/blob/main/screenshots/Dual%20theme.png)https://github.com/4mugala/beeApp/blob/main/screenshots/Dual%20theme.png)
