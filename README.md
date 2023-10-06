@@ -17,6 +17,7 @@ If you intend to to know the avaluation a contextual math expression, just highl
 
 ## Dual theme
 Two themes are supported dark and light.
+
 ![Dual theme](https://github.com/4mugala/beeApp/blob/main/screenshots/Theme%20switch.png "Dual theme")
 
 ## Notes view
