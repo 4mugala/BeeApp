@@ -7,7 +7,7 @@ This feature allow you to search through a note with **reg**ular **ex**pressions
 
 ## Math evaluation
 If you intend to to know the avaluation a contextual math expression, just highlight sub-text.
-![The math expression is elaborate](https://github.com/4mugala/beeApp/blob/main/screenshots/Math evaluation.png "Math evaluation")
+![The math expression is elaborate](https://github.com/4mugala/beeApp/blob/main/screenshots/Math%20evaluation.png "Math evaluation")
 
 ## Dual theme
 Two themes are supported dark and light.
