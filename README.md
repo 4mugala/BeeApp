@@ -1,4 +1,4 @@
-# beeApp
+# BeeApp
 BeeApp is a simple note pad for taking plain notes.
 
 # Features
