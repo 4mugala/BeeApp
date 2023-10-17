@@ -1,7 +1,7 @@
 # BeeApp
 BeeApp is a simple note pad for taking plain notes.
 
-[Download (Linux)](https://bitbucket.org/4mog/beeapp/downloads/beeApp){: .btn .btn-blue }
+[Download (Linux)](https://bitbucket.org/4mog/beeapp/downloads/beeApp)
 
 # Features
 ## Find in note
