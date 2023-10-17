@@ -1,6 +1,8 @@
 # BeeApp
 BeeApp is a simple note pad for taking plain notes.
 
+[Download (Linux)](https://bitbucket.org/4mog/beeapp/downloads/beeApp)
+
 # Features
 ## Find in note
 This feature allow you to search [1] through a note with **reg**ular **ex**pressions capability (prefix a search with a ```#``` for regex mode [2])
