@@ -16,7 +16,7 @@ This feature allow you to search [1] through a note with **reg**ular **ex**press
 ![None-regualar expression](https://github.com/4mugala/beeApp/blob/main/screenshots/Regular%20expression%20search.png "Regular expression")
 
 ## Math evaluation
-If you intend to to know the avaluation of a contextual math expression, just highlight sub-text.
+If you intend to to know the avaluation of a contextual math expression, just highlight the sub-text.
 
 ![The math expression is elaborate](https://github.com/4mugala/beeApp/blob/main/screenshots/Math%20evaluation.png "Math evaluation")
 
