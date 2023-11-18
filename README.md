@@ -5,7 +5,7 @@ BeeApp is a simple note pad for taking plain notes.
 
 =============================================
 
-Developer: Musangu J. Mugala
+Developer: [Musangu J. Mugala](https://github.com/4mugala)
 
 Email: [4devmog@gmail.com](4devmog@gmail.com)
 
